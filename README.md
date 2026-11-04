@@ -1,4 +1,4 @@
-# Grounded Policy RAG Assistant - Hard
+# Grounded Policy RAG Assistant
 
 A local, safety-first Retrieval-Augmented Generation (RAG) starter for company policies. It retrieves relevant passages from the `docs/` folder, answers only with those passages, and shows the source of every result.
 
